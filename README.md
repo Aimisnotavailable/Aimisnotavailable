@@ -20,7 +20,6 @@ I build creative tools that blend computer vision, simulation, and interactive 3
 
 **Security & Tools**
 *   [Rubick](https://github.com/Aimisnotavailable/Rubick) - A machine learning malware analysis toolkit using the EMBER feature set for PE file classification.
-*   [Base64Decoder](https://github.com/Aimisnotavailable/Base64Decoder) - A simple utility for decoding Base64 strings.
 
 **Hardware & IoT**
 *   [ESP32](https://github.com/Aimisnotavailable/ESP32) - Projects for the ESP32 microcontroller (C++).
@@ -40,14 +39,11 @@ Domains: Computer Vision, 3D Graphics, Augmented Reality, Physics Simulation, Ma
 
 ---
 
-### Recent GitHub Activity
+### Activity Overview
 
-![Aimisnotavailable's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aimisnotavailable&show_icons=true&theme=default&hide_title=true&count_private=true)
-
-*   Total Contributions (Last Year): 605
-*   Recently Pinned Repos: PhyPy, PyFace, PyGrass, Rubick, Voxels, RoX
-*   Active Development (May 2026): Working on `Base64Decoder`, `BlackHole`, `PiaCayamopa`, and `ESP32` projects.
+Over the past year, this account has made **605 contributions**, including work in public and private repositories.  
+Active development (May 2026) includes new projects like `Base64Decoder`, `BlackHole`, `PiaCayamopa`, and `ESP32`.
 
 ---
 
-*Check out my pinned repositories below to see what I'm currently working on!*
+*Check out the pinned repositories below for the latest work.*
